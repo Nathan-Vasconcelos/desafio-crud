@@ -1,0 +1,86 @@
+table {
+    margin: 20px 0 40px;
+}
+
+thead {
+    background: #555555;
+    color: white;
+    font-weight: bold;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 8px 15px;
+    text-align: center;
+}
+
+.icone-editar {
+    height: 10px;
+    width: 10px;
+}
+
+.link-opcao {
+    text-decoration: none;
+    color: rgb(81, 136, 236);
+    font-weight: bold;
+    margin-right: 10px;
+    font-size: 18px;
+}
+
+.butao-enviar-cadastro:hover {
+    transform: scale(1.2);
+}
+
+.butao-enviar {
+    background: rgb(81, 136, 236);
+    color: white;
+    font-weight: bold;
+}
+
+.butao-enviar:hover {
+    transform: scale(1.2);
+}
+
+.conteiner-cadastro{
+    display: table-caption;
+    margin: 10px 20px;
+}
+
+.conteiner-cadastro-input {
+    display: block;
+    margin: 5px 10px;
+    width: 200px;
+}
+
+.legend-cadastro {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.butao-enviar-cadastro {
+    display: block;
+    background: rgb(81, 136, 236);
+    color: white;
+    font-weight: bold;
+    margin-left: 40px;
+    width: 80px;
+    padding: 3px 10px;
+}
+
+.butao-enviar-cadastro:hover {
+    transform: scale(1.2);
+}
+
+.caixa {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 10px;
+    width: 30%;
+    padding: 0 20px;
+    font-size: 20px;
+    border: 0 solid black;
+    border-radius: 10px;
+    background: rgb(81, 136, 236);
+    color: white;
+    
+}
